@@ -1,7 +1,8 @@
 # Product Review Application
 ###### Application that creates, views and generates statistics from product reviews.
 
-Special note: please see database notes for a guide to activating the
+
+Important notice: please see database notes for a guide to activating the
 self initializing database.
 
 ## Application functions
@@ -29,3 +30,14 @@ password: admin
 ## Testing
 JUnit5 test case has been implemented on the search functionality
 of the program.
+
+## Developer comments
+I realize that the task called for using Javascript and implementing
+web based functionality. This is not however my skillset and thus I
+have improvised an application using the task material as a guide. Note
+that the seeded product info is from the website link given. Please feel
+free to contact me with any further questions.
+
+Chris Smit
+jclsmit@gmail.com
++971 55 624 3223
